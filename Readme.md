@@ -4,13 +4,6 @@
 
 La estructura de carpetas del proyecto sigue las mejores prácticas de organización:
 
-
-# Muruna User API
-
-## Estructura de Carpetas
-
-La estructura de carpetas del proyecto sigue las mejores prácticas de organización:
-
 ├── src/
 │ ├── main/
 │ │ ├── java/

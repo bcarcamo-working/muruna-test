@@ -37,12 +37,16 @@ La estructura de carpetas del proyecto sigue las mejores prácticas de organizac
 - Java 17
 - H2 Database
 - Lombok 1.18.22
+- JPA
+- UUID.randomUUID()
+- Maven 3.6.3
 
 ## Versiones
 
 - Spring Boot: 2.7.0
 - Java: 17
 - Lombok: 1.18.22
+- Maven 3.6.3
 
 ## Cómo Probar la API
 
